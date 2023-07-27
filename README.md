@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @igorfsurf-mstr
-- 👀 I’m interested in Big/Data & Business Intelligente projects
-- 🌱 I’m currently creating my own repository of Dashboards/Dossiers, to showcase some of the work I've been performing as a Senior Data Analyst
+- 👋 Hi, my name is Igor and...
+- 👀 I’m interested in Big/Data & Business Intelligente projects.
+- 🌱 I’m currently creating my own repository of Dashboards/Dossiers, to showcase some of the work I've been performing as a Senior Data Analyst (working with BI projects).
 - 💞️ I’m looking to collaborate on Data Analysis topics
 
 <!---
